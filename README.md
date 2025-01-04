@@ -10,7 +10,13 @@ A dynamic Markdown Previewer built using **React** and **Tailwind CSS**, capable
 - **GitHub-Flavored Markdown Support**: Supports headings, links, inline code, code blocks, lists, blockquotes, images, bold text, and more.  
 - **Responsive Design**: Built with Tailwind CSS for a seamless experience across devices.  
 - **Default Markdown**: Loads with pre-filled markdown to showcase supported features.  
+- **Enhanced Code Blocks**: Code blocks are styled with custom padding, background, and font for better readability.  
+- **Customized Blockquotes**: Blockquotes are styled with distinct borders, padding, and font adjustments to stand out.  
+- **Table Support**: Tables are styled to display neatly with borders, spacing, and responsive adjustments for smaller screens.  
 - **Bonus Feature**: Line breaks are rendered as `<br>` elements.  
+
+These customizations improve the visual appeal and usability of the Markdown previewer, ensuring a polished and professional user experience.
+
 
 ---
 
