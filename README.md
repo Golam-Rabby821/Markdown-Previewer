@@ -16,7 +16,8 @@ A dynamic Markdown Previewer built using **React** and **Tailwind CSS**, capable
 
 ## 🚀 Live Demo  
 
-🔗 <a href="https://golam-rabby-markdown-previewer.netlify.app/" target="_blank">Markdown Previewer</a>
+🔗 <a href="https://golam-rabby-markdown-previewer.netlify.app/" rel="noopener noreferrer" target="_blank">Markdown Previewer</a>
+
 
 ---
 
