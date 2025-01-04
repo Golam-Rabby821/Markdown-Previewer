@@ -51,6 +51,6 @@ When using **Tailwind CSS**, default styles for HTML elements are removed to mai
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/markdown-previewer.git  
+   git clone https://github.com/golam-rabby821/markdown-previewer.git  
    cd markdown-previewer  
 
